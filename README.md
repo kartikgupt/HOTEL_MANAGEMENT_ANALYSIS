@@ -3,8 +3,11 @@ This project involves analyzing hotel reservation data using SQL. The dataset co
 
 # Dataset Overview
 Booking_ID: A unique identifier for each hotel reservation.
+
 no_of_adults: The number of adults in the reservation.
+
 no_of_children: The number of children in the reservation.
+
 no_of_weekend_nights: The number of nights in the reservation that fall on weekends.
 no_of_week_nights: The number of nights in the reservation that fall on weekdays.
 type_of_meal_plan: The meal plan chosen by the guests.
